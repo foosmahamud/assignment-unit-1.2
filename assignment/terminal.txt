@@ -28,6 +28,9 @@ file3.docx etc).
 ( I run this command when I write code, and it helps me understand the state of my repo and what changes need to be committed or staged.)
 
 # 9 - What does the command 'git add .' do?
-(It adds any new files that have been created ).
+(It adds any new files that I have been created:
+It stages modifications to my existing files:
+it stages deletions of files that have removed:).
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+(Git commit -m "than I will added for my comments here" etc).
